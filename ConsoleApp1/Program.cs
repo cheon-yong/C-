@@ -72,6 +72,26 @@ namespace ConsoleApp1
             //string str = "Hello World!";
 
             //Console.WriteLine(str);
+
+
+
+            // 데이터 갖고 놀기 - 형식 변환
+
+            // 1. 사이즈가 다른 경우
+            // ex)
+            //int a = 1000;
+            //short b = (short)a;
+            // 어떤 일이 일어날 지 모르기 때문에 늘 조심해야함 하지만 반대(short -> int)는 괜찮음
+
+            // 2. 사이는 같지만 부호가 다를 경우
+            //byte c = 255;
+            //sbyte sb = (sbyte)c;
+            //sbyte에서는 0xFF = 0b11111111 = -1 
+
+            // 3. 소수
+            //float f = 3.1414f;
+            //double d = f;
+            //예상한 값과 정확히 일치하지 않을 수 있음
         }
     }
 }
