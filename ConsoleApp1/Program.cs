@@ -48,6 +48,30 @@ namespace ConsoleApp1
             // 즉 0b1100 0111 + 1 = 0b1100 1000 = -56
             // 다른 변수들도 마찬가지
 
+
+
+            // 데이터 갖고 놀기 - 불리언, 소수, 문자, 문자열 형식
+
+            // bool 은 true 또는 false만을 가짐, bool은 1byte (1bit일 때보다 연산이 빠르기 때문)
+            //bool b;
+            //b = true;
+            //b = false;
+
+            // 소수
+            // 4byte
+            //float f = 3.14f; 
+
+            // 8byte 범위가 더 넓고 정밀함
+            //double d = 3.14; 
+
+            // 문자
+            // 2byte 하나의 문자를 표현하기 위한 변수
+            //char c = 'a'; 
+
+            // 문자열
+            //string str = "Hello World!";
+
+            //Console.WriteLine(str);
         }
     }
 }
