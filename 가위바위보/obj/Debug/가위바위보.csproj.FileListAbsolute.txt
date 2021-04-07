@@ -1,0 +1,7 @@
+D:\vs2019_workspace\가위바위보\bin\Debug\가위바위보.exe.config
+D:\vs2019_workspace\가위바위보\bin\Debug\가위바위보.exe
+D:\vs2019_workspace\가위바위보\bin\Debug\가위바위보.pdb
+D:\vs2019_workspace\가위바위보\obj\Debug\가위바위보.csprojAssemblyReference.cache
+D:\vs2019_workspace\가위바위보\obj\Debug\가위바위보.csproj.CoreCompileInputs.cache
+D:\vs2019_workspace\가위바위보\obj\Debug\가위바위보.exe
+D:\vs2019_workspace\가위바위보\obj\Debug\가위바위보.pdb
