@@ -25,6 +25,7 @@ namespace 코드의_흐름제어___if와_else
                 Console.WriteLine("You are Alive!");
             }*/
 
+            /*
             int choice = 0; // 0 : 가위, 1 : 바위, 2 : 보
 
             if (choice == 0)
@@ -33,6 +34,33 @@ namespace 코드의_흐름제어___if와_else
                 Console.WriteLine("바위입니다.");
             else
                 Console.WriteLine("보입니다.");
+            */
+
+            int choice = 0; // 0 : 가위, 1 : 바위, 2 : 보, 3 : 치트키
+            //if가 응용 범위는 훨씬 넓다.
+            //그러나 switch문은 가독성이 훨씬 뛰어나다.
+            switch (choice)
+            {
+                case 0:
+                    Console.WriteLine("가위입니다.");
+                    break;
+                case 1:
+                    Console.WriteLine("바위입니다.");
+                    break;
+                case 2:
+                    Console.WriteLine("보입니다.");
+                    break;
+                case 3:
+                    Console.WriteLine("치트키입니다.");
+                    break;
+                default:
+                    Console.WriteLine("다 실패했습니다.");
+                    break;
+            }
+            //삼항연산자
+            //조건 ? 맞을때 : 틀릴 때
+            int number = 25;
+            bool isPair = (number%2) == 0 ? true : false;
             
         }
     }
