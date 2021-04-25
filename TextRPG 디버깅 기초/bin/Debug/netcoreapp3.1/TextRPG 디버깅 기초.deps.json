@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TextRPG 디버깅 기초/1.0.0": {
+        "runtime": {
+          "TextRPG 디버깅 기초.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextRPG 디버깅 기초/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

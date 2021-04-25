@@ -1,0 +1,13 @@
+D:\vs2019_workspace\TextRPG 디버깅 기초\bin\Debug\netcoreapp3.1\TextRPG 디버깅 기초.exe
+D:\vs2019_workspace\TextRPG 디버깅 기초\bin\Debug\netcoreapp3.1\TextRPG 디버깅 기초.deps.json
+D:\vs2019_workspace\TextRPG 디버깅 기초\bin\Debug\netcoreapp3.1\TextRPG 디버깅 기초.runtimeconfig.json
+D:\vs2019_workspace\TextRPG 디버깅 기초\bin\Debug\netcoreapp3.1\TextRPG 디버깅 기초.runtimeconfig.dev.json
+D:\vs2019_workspace\TextRPG 디버깅 기초\bin\Debug\netcoreapp3.1\TextRPG 디버깅 기초.dll
+D:\vs2019_workspace\TextRPG 디버깅 기초\bin\Debug\netcoreapp3.1\TextRPG 디버깅 기초.pdb
+D:\vs2019_workspace\TextRPG 디버깅 기초\obj\Debug\netcoreapp3.1\TextRPG 디버깅 기초.csprojAssemblyReference.cache
+D:\vs2019_workspace\TextRPG 디버깅 기초\obj\Debug\netcoreapp3.1\TextRPG 디버깅 기초.AssemblyInfoInputs.cache
+D:\vs2019_workspace\TextRPG 디버깅 기초\obj\Debug\netcoreapp3.1\TextRPG 디버깅 기초.AssemblyInfo.cs
+D:\vs2019_workspace\TextRPG 디버깅 기초\obj\Debug\netcoreapp3.1\TextRPG 디버깅 기초.csproj.CoreCompileInputs.cache
+D:\vs2019_workspace\TextRPG 디버깅 기초\obj\Debug\netcoreapp3.1\TextRPG 디버깅 기초.dll
+D:\vs2019_workspace\TextRPG 디버깅 기초\obj\Debug\netcoreapp3.1\TextRPG 디버깅 기초.pdb
+D:\vs2019_workspace\TextRPG 디버깅 기초\obj\Debug\netcoreapp3.1\TextRPG 디버깅 기초.genruntimeconfig.cache
