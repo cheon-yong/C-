@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "객체지향 여행 객체지향의 시작", "객체지향 여행 객체지향의 시작.csproj", "{66EF020F-36DB-4C92-903B-535DD1B5518E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66EF020F-36DB-4C92-903B-535DD1B5518E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EF020F-36DB-4C92-903B-535DD1B5518E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EF020F-36DB-4C92-903B-535DD1B5518E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EF020F-36DB-4C92-903B-535DD1B5518E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B13E4B6-99AB-4812-9753-78542940EEFB}
+	EndGlobalSection
+EndGlobal
