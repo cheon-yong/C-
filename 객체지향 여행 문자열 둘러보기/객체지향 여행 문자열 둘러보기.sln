@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "객체지향 여행 문자열 둘러보기", "객체지향 여행 문자열 둘러보기.csproj", "{09BCFF90-18BD-418A-86D8-34FB42E2479B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09BCFF90-18BD-418A-86D8-34FB42E2479B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BCFF90-18BD-418A-86D8-34FB42E2479B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BCFF90-18BD-418A-86D8-34FB42E2479B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BCFF90-18BD-418A-86D8-34FB42E2479B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FBAED95-583C-4E43-93EC-8592E840B907}
+	EndGlobalSection
+EndGlobal
