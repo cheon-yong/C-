@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "객체지향 여행 다형성", "객체지향 여행 다형성.csproj", "{DFEE1298-25B6-43C2-BDE3-1D42622CB3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEE1298-25B6-43C2-BDE3-1D42622CB3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEE1298-25B6-43C2-BDE3-1D42622CB3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEE1298-25B6-43C2-BDE3-1D42622CB3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEE1298-25B6-43C2-BDE3-1D42622CB3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A8C3B4-E9B0-4DE4-9556-12F556490BF8}
+	EndGlobalSection
+EndGlobal
