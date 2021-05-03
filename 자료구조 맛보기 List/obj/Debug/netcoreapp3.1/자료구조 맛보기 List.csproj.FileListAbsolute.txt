@@ -1,0 +1,12 @@
+D:\vs2019_workspace\자료구조 맛보기 List\obj\Debug\netcoreapp3.1\자료구조 맛보기 List.AssemblyInfoInputs.cache
+D:\vs2019_workspace\자료구조 맛보기 List\obj\Debug\netcoreapp3.1\자료구조 맛보기 List.AssemblyInfo.cs
+D:\vs2019_workspace\자료구조 맛보기 List\obj\Debug\netcoreapp3.1\자료구조 맛보기 List.csproj.CoreCompileInputs.cache
+D:\vs2019_workspace\자료구조 맛보기 List\bin\Debug\netcoreapp3.1\자료구조 맛보기 List.exe
+D:\vs2019_workspace\자료구조 맛보기 List\bin\Debug\netcoreapp3.1\자료구조 맛보기 List.deps.json
+D:\vs2019_workspace\자료구조 맛보기 List\bin\Debug\netcoreapp3.1\자료구조 맛보기 List.runtimeconfig.json
+D:\vs2019_workspace\자료구조 맛보기 List\bin\Debug\netcoreapp3.1\자료구조 맛보기 List.runtimeconfig.dev.json
+D:\vs2019_workspace\자료구조 맛보기 List\bin\Debug\netcoreapp3.1\자료구조 맛보기 List.dll
+D:\vs2019_workspace\자료구조 맛보기 List\bin\Debug\netcoreapp3.1\자료구조 맛보기 List.pdb
+D:\vs2019_workspace\자료구조 맛보기 List\obj\Debug\netcoreapp3.1\자료구조 맛보기 List.dll
+D:\vs2019_workspace\자료구조 맛보기 List\obj\Debug\netcoreapp3.1\자료구조 맛보기 List.pdb
+D:\vs2019_workspace\자료구조 맛보기 List\obj\Debug\netcoreapp3.1\자료구조 맛보기 List.genruntimeconfig.cache
