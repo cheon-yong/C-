@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>알아두면_유용한_기타_문법_Interface_인터페이스_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
